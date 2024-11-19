@@ -10,20 +10,22 @@ Learn how to create a new branch, make changes, and push it to GitHub.
 
 2. **Make changes**:
    
-   Open example-file1.txt and add a new line:
+   Open `file1.txt` and make a random change:
+
+      ```text
+      Hello from feature-branch!
+      ```
+
+   Open `file2.txt` and add a note:
 
    ```text
-   Hello from feature-branch!
-
-   Open example-file2.txt and add a note:
-   ```text
-   Editing this file as part of Task 2.
+   Editing this file as part of Task 2!
    
 3. **Add and commit your changes:**
 
    ```bash
    git add example-file1.txt example-file2.txt
-   git commit -m "Add a greeting from feature-branch"
+   git commit -m "Add a change from feature-branch"
 
 4. **Push the branch:**
    ```

@@ -1,3 +1,0 @@
-This is the first example file.
-
-You will edit this file as part of Task 2 when you create a new branch and make changes.
