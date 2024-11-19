@@ -1,3 +1,14 @@
 This file is used for merge conflicts.
 
 In Task 3, you’ll modify this file both on `main` and on `feature-branch` to create a conflict.
+
+
+In a galaxy far, far away, there existed a planet named Zog. Zog was unique because its inhabitants communicated through colors and light patterns instead of words. The Zogians lived in harmony with nature, and their cities were built in perfect synchronization with the planet's natural rhythms.
+
+One day, a mysterious object appeared in the sky, emitting a strange, pulsating light. The Zogians were both fascinated and concerned. They sent their brightest minds to investigate the object, hoping to uncover its secrets and understand its purpose.
+
+As the Zogians approached the object, they discovered that it was a vessel from another world, carrying beings who communicated through sound waves. The encounter between the Zogians and the visitors from the vessel led to a profound exchange of knowledge and culture, forever changing the course of their civilizations.
+
+What happens next? It's up to you to decide! Modify this story, add new characters, or change the plot as you see fit. Have fun and let your creativity flow!
+
+NOT AI-GENERATED

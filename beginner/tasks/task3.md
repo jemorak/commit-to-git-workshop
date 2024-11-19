@@ -6,7 +6,7 @@ Learn how to resolve merge conflicts when merging branches.
 
 ## Steps
 1. **Create a conflict:**
-   - On `feature-branch`, edit `conflict-file.txt` and add:
+  - On `feature-branch`, edit `conflict-file.txt` and add:
      ```
      Feature branch change
      ```
@@ -18,7 +18,7 @@ Learn how to resolve merge conflicts when merging branches.
    - Switch to `main` and make a conflicting edit:
      ```bash
      git checkout main
-     echo "Main branch change" >> conflict-file.txt
+     #add any text to the exact same line as your previous change
      git commit -am "Main branch change"
      ```
 
