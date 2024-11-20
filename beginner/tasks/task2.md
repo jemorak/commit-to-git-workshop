@@ -25,6 +25,7 @@ Learn how to create a new branch, make changes, and push it to GitHub.
 
    ```bash
    git add example-file1.txt example-file2.txt
+
    git commit -m "Add a change from feature-branch"
 
 4. **Push the branch:**
