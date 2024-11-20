@@ -8,3 +8,8 @@ One year, a mysterious traveler arrived in the village just before the festival.
 The villagers eagerly accepted the challenge, and the festival turned into an exciting quest to uncover the mysteries of the ancient book. Little did they know, the book held the key to a long-lost treasure hidden somewhere in the village.
 
 What happens next? It's up to you to decide! Modify this story, add new characters, or change the plot as you see fit. Have fun and let your creativity flow!
+
+//HELP
+
+```text
+Editing this file as part of Task 2!
